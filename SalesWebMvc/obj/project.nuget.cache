@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "0TpDycz/kUZC5GvbWXLl3NaJq+chhKWwg0ljE90vz5QYvUh0l0BfEJxJ9o9y1rlhur2alFkOt6wEb3/UawJDWw==",
+  "dgSpecHash": "UdFODU9CD4KcEHtAgDNczP16DCZA9Nug8TOhtpUwfPwtOfd/l+VAtyomAtdLSjh2deTPqPgDpz0IVMxZmHMuKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Eu\\source\\repos\\Primeiro\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Eu\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
