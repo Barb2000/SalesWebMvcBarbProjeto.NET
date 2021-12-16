@@ -6,9 +6,17 @@
 
   <ItemGroup>
     <Compile Remove="Views\Departments\**" />
+    <Compile Remove="Views\Home\NewFolder\**" />
     <Content Remove="Views\Departments\**" />
+    <Content Remove="Views\Home\NewFolder\**" />
     <EmbeddedResource Remove="Views\Departments\**" />
+    <EmbeddedResource Remove="Views\Home\NewFolder\**" />
     <None Remove="Views\Departments\**" />
+    <None Remove="Views\Home\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\HomeController1.cs" />
   </ItemGroup>
 
   <ItemGroup>
