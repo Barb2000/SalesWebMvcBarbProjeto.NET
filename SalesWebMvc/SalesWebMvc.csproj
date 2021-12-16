@@ -12,14 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="Controllers\DepartmentsController.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Models\ViewModels\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="Views\Departments\Create.cshtml" />
     <None Include="Views\Departments\Delete.cshtml" />
     <None Include="Views\Departments\Details.cshtml" />
@@ -36,6 +28,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.0" />
   </ItemGroup>
 
 </Project>
