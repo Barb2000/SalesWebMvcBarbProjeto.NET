@@ -151,4 +151,10 @@ C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.
 C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
-C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sellers\Index.cshtml.g.cs
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments1\Create.cshtml.g.cs
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments1\Delete.cshtml.g.cs
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments1\Details.cshtml.g.cs
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments1\Edit.cshtml.g.cs
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments1\Index.cshtml.g.cs
+C:\Users\Eu\source\repos\Primeiro\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -23,6 +23,7 @@
     <None Include="Views\Departments\Create.cshtml" />
     <None Include="Views\Departments\Delete.cshtml" />
     <None Include="Views\Departments\Details.cshtml" />
+    <None Include="Views\Departments\Index.cshtml" />
     <None Include="Views\Departments\Edit.cshtml" />
   </ItemGroup>
 
